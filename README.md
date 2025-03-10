@@ -9,7 +9,7 @@
 </p>
 
 ### Brief Overview of the Project
-  * <p align="justify">This project shows the respondents' education, qualifications, vehicle information, riding habits, general knowledge on riding and how much awareness they have on the traffic 
+  * <p align="justify">This project shows the respondents education, qualifications, vehicle information, riding habits, general knowledge on riding and how much awareness they have on the traffic 
     signs that we see on a regular basis.
   </p>
   
